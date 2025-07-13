@@ -28,7 +28,7 @@ fall_threshold = 0.8
 identify = ObjectProcessor()
 
 
-cap = cv2.VideoCapture("../data/test_video.mp4")
+cap = cv2.VideoCapture("data/test_video.mp4")
 if not cap.isOpened():
     print("Error: Video not found or can't be opened.")
     exit()
