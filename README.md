@@ -28,7 +28,7 @@ GuardAIn is a real-time accident detection and emergency response system based o
 7. Crowd-Aid Prompt: Instant notification to nearby civilians willing to help (Also for people planning to travel via same route.
 
 ## Project Execution Result Video Link: 
-ht
+https://youtu.be/Xbal0zUVNkw
 
 ## 📂 Results Folder
 Access the results [here](Results/)
